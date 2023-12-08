@@ -1,3 +1,4 @@
+console.log("I am working");
 document.addEventListener('DOMContentLoaded', function () {
 
     new Splide('#project-splide', {
